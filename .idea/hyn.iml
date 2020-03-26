@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/tests/traits" isTestSource="true" packagePrefix="Hyn\Tenancy\Tests\Traits\" />
+      <sourceFolder url="file://$MODULE_DIR$/tests/unit-tests" isTestSource="true" packagePrefix="Hyn\Tenancy\Tests\" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" packagePrefix="Hyn\Tenancy\" />
+      <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/tests/extend" isTestSource="true" packagePrefix="Hyn\Tenancy\Tests\Extend\" />
+      <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
